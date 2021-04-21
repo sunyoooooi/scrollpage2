@@ -5,4 +5,4 @@ scrollpage2
 회사소개
 찾아오시는길
 
-bulid : html, css, sass, javascript
+bulid : html, css, sass
